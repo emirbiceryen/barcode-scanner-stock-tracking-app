@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "image": "./assets/icon.png",
+    "resizeMode": "contain",
+      "backgroundColor": "#ffffff",
+    "entryPoint": "./index.tsx",
+    "extra": {
+      "eas": {
+        "projectId": "031b5143-83ab-47df-91b3-86dc077987fb"
+      }
+    },
+    "android": {
+      "package": "com.emirbiceryen.mssqlserver"
+    }
+  }
+}
